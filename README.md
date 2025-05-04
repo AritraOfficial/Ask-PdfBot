@@ -8,7 +8,7 @@ Build an AI-powered chatbot that can intelligently answer your questions from mu
 
 ---
 ![image](https://github.com/user-attachments/assets/ac9fb489-5a8e-4e75-bd03-8f9178c9d25b)
-
+---
 ## 🚀 Features
 
 * 🔍 **Multi-PDF Support** – Upload and query across multiple PDF documents
