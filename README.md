@@ -7,6 +7,7 @@
 Build an AI-powered chatbot that can intelligently answer your questions from multiple PDF documents using Google Gemini, FAISS vector storage, and LangChain — all wrapped in a beautiful Streamlit interface.
 
 ---
+![image](https://github.com/user-attachments/assets/ac9fb489-5a8e-4e75-bd03-8f9178c9d25b)
 
 ## 🚀 Features
 
@@ -83,7 +84,7 @@ The app will open in your browser. Upload PDFs and ask questions!
 
 | Upload PDFs                       | Ask Questions                    | Get Answers                       |
 | --------------------------------- | -------------------------------- | --------------------------------- |
-| ![upload](screenshots/upload.png) | ![ask](screenshots/question.png) | ![answer](screenshots/answer.png) |
+| ![image](https://github.com/user-attachments/assets/d1bf2052-9c3a-4fef-8527-59ff7bd5ebd6) | ![ask](https://github.com/user-attachments/assets/bdda8359-2a1b-45ad-bb82-28fec0b785e0)| ![answer](https://github.com/user-attachments/assets/a2402ab5-aa77-41e0-b973-0e0597513b0b)|
 
 ---
 
@@ -121,12 +122,8 @@ Feel free to use, modify, and share.
 
 ---
 
-Would you like me to include badges (e.g., stars, forks, license) or a deployment link (Streamlit Cloud)?
-
----
-
 ## 🙌 Acknowledgments  
-Special thanks to the creators of **TensorFlow**, **Gradio**, and **Hugging Face Spaces** for their powerful tools that made this project possible.  
+Special thanks to the creators of **Google**, **Streamlit**, and **Github** for the powerful tools that made this project possible.  
 
 ---
 
@@ -157,3 +154,6 @@ For queries or collaborations, feel free to connect:
 </p>
 
 ---
+---
+
+Would you like me to include badges (e.g., stars, forks, license) or a deployment link (Streamlit Cloud)?
