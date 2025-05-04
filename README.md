@@ -8,7 +8,7 @@ Build an AI-powered chatbot that can intelligently answer your questions from mu
 
 ---
 ![image](https://github.com/user-attachments/assets/ac9fb489-5a8e-4e75-bd03-8f9178c9d25b)
----
+```                                                                                                                                     ```
 ## 🚀 Features
 
 * 🔍 **Multi-PDF Support** – Upload and query across multiple PDF documents
@@ -80,11 +80,17 @@ The app will open in your browser. Upload PDFs and ask questions!
 
 ---
 
-## 📸 Screenshots
+## 📸 Computer's View
 
 | Upload PDFs                       | Ask Questions                    | Get Answers                       |
 | --------------------------------- | -------------------------------- | --------------------------------- |
 | ![image](https://github.com/user-attachments/assets/d1bf2052-9c3a-4fef-8527-59ff7bd5ebd6) | ![ask](https://github.com/user-attachments/assets/bdda8359-2a1b-45ad-bb82-28fec0b785e0)| ![answer](https://github.com/user-attachments/assets/a2402ab5-aa77-41e0-b973-0e0597513b0b)|
+---------------------------
+## 📸 Mobile's View
+
+| Upload PDFs                       | Ask Questions                    | Get Answers                       |
+| --------------------------------- | -------------------------------- | --------------------------------- |
+| ![pdfs](https://github.com/user-attachments/assets/5aa31351-82e5-4064-81c5-7f5c44696cec)| ![ask](https://github.com/user-attachments/assets/08f1ba22-f68f-4cae-b9d5-f24598f3918e)| ![answer](https://github.com/user-attachments/assets/8e54dd47-40fa-4106-b5d3-8780c8f6f69a)|
 
 ---
 
