@@ -1,6 +1,6 @@
 # 📄 Chat with Multiple PDFs using LangChain & Google Gemini
 <p align="center">
-  <a href="https://chatwithmultiplepdfs-ariofficial.streamlit.app/" target="_blank">
+  <a href="https://chatwithmultiplepdfs-arimofficial.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/-🚀 Live%20Demo-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=00C853&color=000000" alt="Live Demo">
   </a>
 </p>
