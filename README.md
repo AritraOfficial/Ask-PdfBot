@@ -26,7 +26,7 @@ Below is the structured flow of the project:
 ## 📁 Project Structure
 
 ```
-├── streamlit_app.py                     # Streamlit app entry point
+├── streamlit_app.py           # Streamlit app entry point
 ├── requirements.txt           # Dependencies
 ├── .streamlit/config.toml     # Streamlit theme config (optional) (In your local drive)
 ├── faiss_index/               # Local vector index (In your local drive)
