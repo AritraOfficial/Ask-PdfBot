@@ -22,6 +22,8 @@ Build an AI-powered chatbot that can intelligently answer your questions from mu
 ## 📋 Project Flow  
 Below is the structured flow of the project:  
 ![diagram-export-04-05-2025-15_29_11](https://github.com/user-attachments/assets/8f087154-36db-42f5-83ea-918b005e3471)
+![image](https://github.com/user-attachments/assets/c14b4efe-ba45-44d8-ac27-ef263558316e)
+
 
 ## 📁 Project Structure
 
