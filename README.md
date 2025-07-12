@@ -138,6 +138,9 @@ Special thanks to the creators of **Google**, **Streamlit**, and **Github** for 
 ## 📧 Contact 
 For queries or collaborations, feel free to connect:  
 <p align="center">
+  <a href="https://arim-official.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Website">
+  </a>
   <a href="https://www.linkedin.com/in/aritramukherjeeofficial/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
